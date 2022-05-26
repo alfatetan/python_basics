@@ -1,0 +1,5 @@
+Jefferson 30000
+Lidermann 15000
+Ivanov 4000
+Sidorov 22000
+McGwyer 18000
